@@ -96,7 +96,7 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nestjs-starter-kit.git
+git clone https://github.com/shinekyaw/nestjs-starter-kit.git
 cd nestjs-starter-kit
 ```
 
